@@ -18,7 +18,7 @@ Thanks!
 
 ## Table Of Contents
 
-1. [x] JavaScript Drum Kit
+1. [x] ~~[JavaScript Drum Kit](./01\ -\ JavaScript\ Drum\ Kit/)~~
 2. [ ] JS + CSS Clock
 3. [ ] CSS Variables
 4. [ ] Array Cardio, Day 1
